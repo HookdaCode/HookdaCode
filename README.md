@@ -27,11 +27,27 @@
 
 ---
 
+## 🌍 Portfolio Projects
+
+📚 These projects were built as part of the Jonas Schmedtmann's Javascriipt online courses I completed in Udemy,
+where I applied various concepts in JavaScript, HTML & CSS. While their foundation comes from the courses,
+I have worked on improving their functionality and code. 🚀
+
+💵 Bankist (Landing Page) (https://bankist-app-giannis.netlify.app/)
+A modern banking website showcasing smooth UI animations and interactive sections.
+
+🍝 Forkify (Recipe Search App) (https://forkify-v1-giannis.netlify.app/)
+A JavaScript-based recipe search app that fetches data from an API, allowing users to find and save their favorite recipes.
+
+🃏 Pig Game (Dice Game) (https://pig-game-giannis.netlify.app/)
+A fun two-player dice game built with JavaScript, featuring score tracking and game logic.
+
+---
+
 ## 🌍 Connect With Me
-- 💻 [GitHub](https://github.com/HookdaCode)
-- 🎸 [Spotify - ΛΔΛΜ (ADAM)](https://spoti.fi/2YiEPxZ)
 - 💼 [LinkedIn](https://www.linkedin.com/in/%CE%B3%CE%B9%CE%AC%CE%BD%CE%BD%CE%B7%CF%82-%CF%86%CE%BF%CF%85%CF%81%CE%AF%CE%BA%CE%B7%CF%82-a51457326/)
 - 📸 [Facebook](https://www.facebook.com/giannis.fourikis.94)
+- 🎸 [Spotify - ΛΔΛΜ (ADAM)](https://spoti.fi/2YiEPxZ)
 
 Thanks for stopping by! 🚀 Let's build, create, and rock on! 🎸
 
