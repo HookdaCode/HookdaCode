@@ -33,7 +33,7 @@
 where I applied various concepts in JavaScript, React, HTML & CSS. While their foundation comes from the courses,
 I have worked on improving their functionality and code. 🚀
 
-🍕 Fast React Pizza (https://fast-react-pizza-hookdacode.netlify.app/)
+🍕 Fast React Pizza (https://fast-react-pizza-john.netlify.app/)
 A dynamic pizza ordering application built with React and Vite, featuring a sleek user interface,
 real-time order updates, and a fast, responsive design for an enjoyable food-ordering experience.
 
