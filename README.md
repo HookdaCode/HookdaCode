@@ -30,8 +30,12 @@
 ## 🌍 Portfolio Projects
 
 📚 These projects were built as part of the Jonas Schmedtmann's Javascriipt online courses I completed in Udemy,
-where I applied various concepts in JavaScript, HTML & CSS. While their foundation comes from the courses,
+where I applied various concepts in JavaScript, React, HTML & CSS. While their foundation comes from the courses,
 I have worked on improving their functionality and code. 🚀
+
+🍕 Fast React Pizza (https://fast-react-pizza-hookdacode.netlify.app/)
+A dynamic pizza ordering application built with React and Vite, featuring a sleek user interface,
+real-time order updates, and a fast, responsive design for an enjoyable food-ordering experience.
 
 💵 Bankist (Landing Page) (https://bankist-app-giannis.netlify.app/)
 A modern banking website showcasing smooth UI animations and interactive sections.
