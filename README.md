@@ -34,7 +34,7 @@ where I applied various concepts in JavaScript, React, HTML & CSS. While their f
 I have worked on improving their functionality and code. 🚀
 
 🍕 Fast React Pizza (https://fast-react-pizza-john.netlify.app/)
-A dynamic pizza ordering application built with React and Vite, featuring a sleek user interface,
+A dynamic pizza ordering application built with React and Vite, featuring a sleek user interface styled with Tailwind CSS,
 real-time order updates, and a fast, responsive design for an enjoyable food-ordering experience.
 
 💵 Bankist (Landing Page) (https://bankist-app-giannis.netlify.app/)
