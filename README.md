@@ -16,7 +16,7 @@
 ## 💻 Tech Stack & Skills
 - **Front-End:** JavaScript (ES6+), HTML, CSS, React (soon!)
 - **Audio Production:** Cubase 10 Pro, Wavelab, FMOD, Sound Design
-- **Other Tools:** Photoshop, Capcut, Git, GitHub
+- **Other Tools:** Photoshop, Capcut, GitHub
 
 ---
 
